@@ -1,0 +1,24 @@
+.quote {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.show {
+  opacity: 1;
+}
+
+.glow-button {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.glow-button:hover {
+  box-shadow: 0 0 10px 5px rgba(82, 255, 168, 0.7);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

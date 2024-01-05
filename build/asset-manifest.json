@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9520bb0.css",
+    "main.js": "/static/js/main.7a89b800.js",
+    "index.html": "/index.html",
+    "static/media/pattern-divider-desktop.svg": "/static/media/pattern-divider-desktop.00fbc7bd493e95fbe392.svg",
+    "static/media/pattern-divider-mobile.svg": "/static/media/pattern-divider-mobile.d745f9c22f99cf2b8d7e.svg",
+    "main.e9520bb0.css.map": "/static/css/main.e9520bb0.css.map",
+    "main.7a89b800.js.map": "/static/js/main.7a89b800.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9520bb0.css",
+    "static/js/main.7a89b800.js"
+  ]
+}
